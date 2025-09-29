@@ -1,9 +1,27 @@
-# LLM_finetuning
+# LLM Learning & AI Engineering
 
-Here I will document the learning of LLM.
+This repository contains resources, notebooks, and scripts related to learning and experimenting with LLM and AI engineering. Its contents are ideal for those interested in understanding fundamental concepts, practical pipelines, and domain-specific applications of LLMs.
 
-Contained are Colab notebooks:
-* MIT LLM finetuning: Notebook from MIT Deep Learning course. It goes through fundamental concepts like tokenization, templates and fine tuning. It also provides a complete pipeline for fine-tuning a multi-billion parameter LLM to generate responses in a specific style.
-*  LLM for Genomics: Script to pretrain Mixtral LLM for DNA sequences
-*  Langchain_LLM_dev: containing basic building blocks of langchain framework such as sequential chains 
+## Contents
 
+- **MIT LLM Finetuning:**  
+  Colab notebook from the MIT Deep Learning course. Covers:
+  - Tokenization fundamentals
+  - Prompt templates
+  - End-to-end fine-tuning pipeline for LLMs
+
+- **LLM for Genomics:**  
+  Script/notebook to pretrain Mixtral LLM for DNA sequence analysis, demonstrating the application of LLMs in genomics.
+
+- **Langchain LLM Development:**  
+  Notebooks showcasing the Langchain framework, including:
+  - Sequential chains
+  - Basic building blocks for LLM-based development
+
+## Contributing
+
+Contributions, issues, and suggestions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This repository is provided for educational purposes.
