@@ -11,7 +11,7 @@ This repository contains resources, notebooks, and scripts related to learning a
   - End-to-end fine-tuning pipeline for LLMs
 
 - **LLM for Genomics:**  
-  Script/notebook to pretrain Mixtral LLM for DNA sequence analysis, demonstrating the application of LLMs in genomics.
+  Script/notebook to pretrain Mixtral LLM for DNA sequence analysis
 
 - **Langchain LLM Development:**  
   Notebooks showcasing the Langchain framework, including:
@@ -19,14 +19,17 @@ This repository contains resources, notebooks, and scripts related to learning a
   - Basic building blocks for LLM-based development
 
 - **LangChain_Agents:**
-  Resources and examples demonstrating how to build, configure, and deploy intelligent agents using the LangChain framework.
+  How to build, configure, and deploy intelligent agents using the LangChain framework.
 
+- **Claude Code Best Practices** -
+  - 
 
 ## Topics to Learn
 
 - RAG
 - Evals
 - MCP
+  Model Context Protocol: open source model agnostic protocol that allows for data and AI systems to communicate easily
 - Voice Stack
 
 ## Contributing
