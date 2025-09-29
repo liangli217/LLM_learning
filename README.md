@@ -18,6 +18,10 @@ This repository contains resources, notebooks, and scripts related to learning a
   - Sequential chains
   - Basic building blocks for LLM-based development
 
+- **LangChain_Agents:**
+  Resources and examples demonstrating how to build, configure, and deploy intelligent agents using the LangChain framework.
+
+
 ## Topics to Learn
 
 - RAG
