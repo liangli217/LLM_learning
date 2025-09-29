@@ -21,8 +21,8 @@ This repository contains resources, notebooks, and scripts related to learning a
 - **LangChain_Agents:**
   How to build, configure, and deploy intelligent agents using the LangChain framework.
 
-- **Claude Code Best Practices** -
-  - 
+- **Claude Code Best Practices** 
+  
 
 ## Topics to Learn
 
