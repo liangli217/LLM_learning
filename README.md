@@ -1,6 +1,6 @@
 # LLM Learning & AI Engineering
 
-This repository contains resources, notebooks, and scripts related to learning and experimenting with LLM and AI engineering. Its contents are ideal for those interested in understanding fundamental concepts, practical pipelines, and domain-specific applications of LLMs.
+This repository contains resources, notebooks, and scripts related to learning and experimenting with LLM and AI engineering. Its contents are ideal for those interested in understanding fundamental concepts and practical applications for large language models (LLMs).
 
 ## Contents
 
@@ -17,6 +17,13 @@ This repository contains resources, notebooks, and scripts related to learning a
   Notebooks showcasing the Langchain framework, including:
   - Sequential chains
   - Basic building blocks for LLM-based development
+
+## Topics to Learn
+
+- RAG
+- Evals
+- MCP
+- Voice Stack
 
 ## Contributing
 
