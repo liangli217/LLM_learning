@@ -1,7 +1,6 @@
 # LLM Learning & AI Engineering
 
-This repository contains resources, notebooks, and scripts related to learning and experimenting with LLM and AI engineering. Its contents are ideal for those interested in understanding fundamental concepts and practical applications for large language models (LLMs).
-
+This repository contains resources, notebooks, and scripts related to learning and experimenting with LLM and AI engineering. 
 ## Contents
 
 - **MIT LLM Finetuning:**  
@@ -20,8 +19,6 @@ This repository contains resources, notebooks, and scripts related to learning a
 
 - **LangChain_Agents:**
   How to build, configure, and deploy intelligent agents using the LangChain framework.
-
-- **Claude Code Best Practices** 
   
 
 ## Topics to Learn
